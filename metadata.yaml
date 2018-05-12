@@ -1,0 +1,37 @@
+_repo: The-Project-Gutenberg-Works-Of-Hall-CaineAn-Index_29430
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29430-h/files/19732/19732-h/images/eternal-cover.jpg
+creator:
+  author:
+    agent_name: Caine, Hall, Sir
+    aliases:
+    - Caine, T. Hall, Sir
+    - Caine, Thomas Henry Hall, Sir
+    birthdate: 1853
+    deathdate: 1931
+    gutenberg_agent_id: '591'
+    url: http://www.gutenberg.org/2009/agents/591
+    wikipedia: http://en.wikipedia.org/wiki/Hall_Caine
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2009-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29430'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indexes'
+- !lcc 'PR'
+title: 'The Project Gutenberg Works Of Hall Caine
+
+  An Index'
+url: http://www.gutenberg.org/ebooks/29430
